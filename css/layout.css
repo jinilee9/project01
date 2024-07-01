@@ -94,6 +94,7 @@ header{
 .imgbox{
     width: 50%;
     margin: 0 auto;
+    display: block;
 }
 .subtitle{
     font-family: var(--enjoy-font);
